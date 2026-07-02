@@ -6,13 +6,20 @@ It is made from photography accessories as listed below and is easy to assemble.
 
 ## Part list
 
+### two BEXIN QJ-08 Camera Quick Release Panoramic Mount Clamps
+
+[Bexin](https://www.bexin-photo.com/qj-08-camera-quick-release-clamp-360-degree-rotate-mount-clamp-product/), [Aliexpress](https://www.aliexpress.us/item/3256805036884799.html), 
+
+<img width="500" src="https://github.com/user-attachments/assets/4956d1ec-78d2-4038-bb16-56187c41af60" />
+
+
 ### 210x70mm Camera Mount Cheese Plate
 
 There are many shorter cheese plates on the market, but here the length is essential, so that the arm is placed far enough from the table edge.
 
-[Aliexpress](https://www.aliexpress.us/item/3256807362576590.html), [Amazon](https://www.amazon.de/dp/B0DBL67HHR)
+[Aliexpress](https://www.aliexpress.us/item/3256807362576590.html), [AliExpress](https://www.aliexpress.us/item/3256811662577961.html), [Amazon](https://www.amazon.de/dp/B0DBL67HHR)
 
-<img width="965" height="1157" alt="image" src="https://github.com/user-attachments/assets/4add96ee-7cc7-4cdb-80e7-51fc0ac225c4" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4add96ee-7cc7-4cdb-80e7-51fc0ac225c4" />
 
 
 
@@ -22,7 +29,12 @@ A clamp with a 3/8" mound hole and enough travel to fixate a fork or a spoon. [A
 
 There are many varieties of such a clamp on the market. Importan is, that the shaft can go all the way to the lower edge, so that it can fixate your utensil firmly enough.
 
-<img width="1224" height="1495" alt="image" src="https://github.com/user-attachments/assets/8fc8984f-f920-4050-8e44-32b57c71ec89" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8fc8984f-f920-4050-8e44-32b57c71ec89" />
+
+### two C-clamps for the table
+
+Any clamps that are big enough will work (including the one listed above).
+
 
 
 ## License and author
