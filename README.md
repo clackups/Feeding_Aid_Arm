@@ -2,7 +2,7 @@
 
 This is a simple mechanical device that aims to facilitate the eating for a person with limited arm funcion, such as those suffering from cerebral palsy.
 
-It is made from photography accessories as listed below and is easy to assemble.
+The device is made from photography accessories as listed below and is easy to assemble.
 
 ## Part list
 
