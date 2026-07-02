@@ -1,10 +1,17 @@
-# Feeding_Aid_Arm
+# Feeding Aid Arm
 
 This is a simple mechanical device that aims to facilitate the eating for a person with limited arm funcion, such as those suffering from cerebral palsy.
 
 It is made from photography accessories as listed below and is easy to assemble.
 
 ## Part list
+
+### Camera Quick Release L Bracket
+
+[Bexin](https://www.bexin-photo.com/bexin-l130-50-universal-camera-l-bracket-quick-release-l-plate-1-4-inch-screw-for-camera-product/), [Aliexpress](https://www.aliexpress.us/item/3256805888293059.html), [Amazon](https://www.amazon.com/Aluminum-L-Bracket-Release-Camera-Accessory/dp/B0C2XR9S9L/)
+
+<img width="500" src="https://github.com/user-attachments/assets/3a3b3273-3516-4623-8161-1d329481334f" />
+
 
 ### two BEXIN QJ-08 Camera Quick Release Panoramic Mount Clamps
 
