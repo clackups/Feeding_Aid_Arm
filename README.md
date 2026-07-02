@@ -49,6 +49,13 @@ There are many varieties of such a clamp on the market. Importan is, that the sh
 
 Any clamps that are big enough will work (including the one listed above).
 
+### Screws
+
+A 1/4" turn 3/8" conversion screw should normally be available with the BEXIN QJ-08 panoramic mount. 
+
+A 1/4" screw is needed to attach the lower BEXIN QJ-08 to the cheese plate. 
+
+Two M4 screws with washers (and preferable, with spring washers) to attach the upper BEXIN QJ-08 to the long side of the L bracket.
 
 
 ## License and author
