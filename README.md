@@ -6,6 +6,16 @@ It is made from photography accessories as listed below and is easy to assemble.
 
 ## Part list
 
+### 210x70mm Camera Mount Cheese Plate
+
+There are many shorter cheese plates on the market, but here the length is essential, so that the arm is placed far enough from the table edge.
+
+[Aliexpress](https://www.aliexpress.us/item/3256807362576590.html), [Amazon](https://www.amazon.de/dp/B0DBL67HHR)
+
+<img width="965" height="1157" alt="image" src="https://github.com/user-attachments/assets/4add96ee-7cc7-4cdb-80e7-51fc0ac225c4" />
+
+
+
 ### C-Clamp with 1/4" 3/8" Thread Hole
 
 A clamp with a 3/8" mound hole and enough travel to fixate a fork or a spoon. [Amazon](https://www.amazon.com/C-Clamp-C-Shaped-Desktop-Monitor-Fixture/dp/B0FT5ZPKXR), [AliExpress](https://www.aliexpress.us/item/3256808835661051.html)
