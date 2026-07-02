@@ -6,6 +6,13 @@ It is made from photography accessories as listed below and is easy to assemble.
 
 ## Part list
 
+### QZSD AK90 Universal Tripod Extension Boom Arm
+
+[eBay](https://www.ebay.co.uk/itm/226469610757), [Aliexpress](https://www.aliexpress.us/item/3256807765377783.html), [Amazon](https://www.amazon.co.uk/Zwfjcmsa-Extension-Release-Capacity-Overhead-Black/dp/B0DLB26TJB)
+
+<img width="500" src="https://github.com/user-attachments/assets/9d638fa8-5338-4fef-b6af-06f345324c0c" />
+
+
 ### Camera Quick Release L Bracket
 
 [Bexin](https://www.bexin-photo.com/bexin-l130-50-universal-camera-l-bracket-quick-release-l-plate-1-4-inch-screw-for-camera-product/), [Aliexpress](https://www.aliexpress.us/item/3256805888293059.html), [Amazon](https://www.amazon.com/Aluminum-L-Bracket-Release-Camera-Accessory/dp/B0C2XR9S9L/)
