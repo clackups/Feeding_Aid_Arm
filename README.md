@@ -2,6 +2,8 @@
 
 This is a simple mechanical device that aims to facilitate the eating for a person with limited arm funcion, such as those suffering from cerebral palsy.
 
+[Demo videos on Youtube](https://www.youtube.com/playlist?list=PLHsiqKVfd8Bo).
+
 ![IMG01](img/IMG01.jpg)
 ![IMG01](img/IMG02.jpg)
 ![IMG01](img/IMG03.jpg)
